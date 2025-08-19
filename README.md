@@ -3,7 +3,7 @@ Hi there! I'm a backend developer passionate about building scalable, efficient,
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcelo-alves-cruz-130a13284/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-cruz-130a13284/) 
 
 # 💻 Tech Stack:
 **Languages:**<br>
