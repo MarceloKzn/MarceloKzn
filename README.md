@@ -11,6 +11,10 @@ Hi there! I'm a backend developer passionate about building scalable, efficient,
 <br>**Frameworks:**<br>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 <br>**Database:**<br>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>**Tools:**<br>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# Work:
+<img width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloDev_02&theme=monokai&exclude=JavaScript" alt="Top langs">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarceloKzn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MarceloKzn&theme=dark&hide_border=false)<br/>
